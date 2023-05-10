@@ -1,0 +1,66 @@
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 16px;
+  text-align: center;
+  color: #222;
+}
+
+#main {
+  background: #eee;
+  padding: 10px;
+}
+
+#title {
+  font-size: 2.5rem;
+  margin-bottom: 0;
+}
+
+h2 {
+  font-size: 1.25rem;
+  margin: 50px auto;
+}
+
+#img-div {
+  background: white;
+  margin: 0 auto;
+  padding: 10px;
+}
+
+img {
+  width: 1000px;
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
+#img-caption {
+  font-size: 0.9rem;
+  margin: 5px auto;
+}
+
+#tribute-info {
+  text-align: left;
+  line-height: 1.5;
+  max-width: 750px;
+  margin: 0 auto;
+}
+
+li {
+  margin: 15px auto;
+}
+
+#quote {
+  text-align: left;
+  max-width: 750px;
+  margin: 50px auto;
+}
+
+a {
+  text-decoration: none;
+  color: rgb(0, 0, 255);
+}
+
+a:hover {
+  color: rgba(0, 0, 255, 0.6);
+}
